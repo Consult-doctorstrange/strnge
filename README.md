@@ -9,3 +9,4 @@
 <strike>doutor</strike>
 <sup>doutor</sup>
 <sub>doutor</sub>
+<mark>doutor</mark>
