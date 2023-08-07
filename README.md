@@ -11,3 +11,4 @@
 <sub>doutor</sub>
 <mark>doutor</mark>
 
+<abbr title="a dor é uma antiga colega">dor</abbr>
