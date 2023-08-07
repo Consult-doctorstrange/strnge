@@ -5,3 +5,4 @@
 <strong>doutor</strong>
 <b>doutor</b>
 <small>doutor</small>
+<del>doutor</del>
